@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeroAlexaHack", "XeroAlexaHack\XeroAlexaHack.csproj", "{D186035B-145D-45CD-9036-4AE4E73E61EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D186035B-145D-45CD-9036-4AE4E73E61EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D186035B-145D-45CD-9036-4AE4E73E61EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D186035B-145D-45CD-9036-4AE4E73E61EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D186035B-145D-45CD-9036-4AE4E73E61EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97865985-81A5-4B1F-B07D-7F426E291115}
+	EndGlobalSection
+EndGlobal
